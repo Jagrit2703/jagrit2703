@@ -1,21 +1,16 @@
-
-
-
-<h1 align="center">Hi! I'm Jagrit</h1>
-<h3 align="center">I'm a student developer from India</h3>
+<h1 align="center">Hey Visitor! I'm Jagrit</h1>
+<h3 align="center">A developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on a project called **Mise en place**
+- 🔭 I’m currently working as an AWS Backend Engineer at a **Startup**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 💬 Ask me about **Photography , Music and Creative Arts**
 
-- 💬 Ask me about **Photography , Music and Designing**
-
-- 📫 How to reach me **jagritpant201@gmail.com**
+- 📫 You can reach out to me through this magical entity **jagritpant201@gmail.com**
 
 
-<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"></img>
+<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif", align = "center"></img>
 
 
 
