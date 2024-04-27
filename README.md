@@ -1,9 +1,10 @@
 <h1 align="center">Hey Visitor! I'm Jagrit</h1>
 <h3 align="center">A developer from India</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical&layout=compact" height="300" width="350"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
