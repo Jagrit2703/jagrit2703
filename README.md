@@ -1,6 +1,8 @@
 <h1 align="center">Hey Visitor! I'm Jagrit</h1>
 <h3 align="center">A developer from India</h3>
 
+<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" alt="Programming frog" align="middle">
+
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working as an AWS Backend Engineer at a **Startup**
@@ -8,11 +10,6 @@
 - 💬 Ask me about **Photography , Music and Creative Arts**
 
 - 📫 You can reach out to me through this magical entity **jagritpant201@gmail.com**
-
-
-<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif", align = "center"></img>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
