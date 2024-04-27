@@ -1,7 +1,9 @@
 <h1 align="center">Hey Visitor! I'm Jagrit</h1>
 <h3 align="center">A developer from India</h3>
 
-<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" alt="Programming frog" align="middle">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical&layout=compact" height="300" width="350"/>
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
