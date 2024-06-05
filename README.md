@@ -8,7 +8,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working as an AWS Backend Engineer at a **Startup**
+- 🔭 Currently dwelling for **Ideas** and looking for work **Opportunities**
+
+- 🔭 I’ve worked as an AWS Backend Engineer at a **Startup**
 
 - 💬 Ask me about **Photography , Music and Creative Arts**
 
