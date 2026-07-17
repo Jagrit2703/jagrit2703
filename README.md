@@ -1,91 +1,64 @@
-<h1 align="center">Jagrit Pant</h1>
-<h3 align="center">AI Engineer | Cloud Enthusiast | Building Intelligent Systems</h3>
+<h1 align="center">Hi, I'm Jagrit Pant</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width="400" height="340" />
-  .com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height="340" />
+  AI Engineer • Cloud Enthusiast • Builder
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8" />
-About Me
-
-- Graduate Engineer Trainee at **Carrier**
-- Building AI-powered solutions, agentic workflows, and cloud-native applications
-- Interested in LLMs, Multi-Agent Systems, RAG, Azure AI, and distributed systems
-- Passionate about solving real-world engineering problems
-- Outside of work you'll find me exploring photography, music production, gaming, and motorcycles
+  ://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width="400"/>
+</p>
 
 ---
 
-## Connect
+### About Me
+
+- Building AI agents and intelligent developer tools
+- Graduate Engineer Trainee @ Carrier
+- Interested in LLMs, Agentic AI, Cloud Engineering, and Distributed Systems
+- Photography, Music Production, Gaming, and Motorcycles
+
+---
+
+### Connect
 
 <p align="left">
-.com/in/jagrit-pant-544025191" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://linkedin.com/in/jagrit-pant-544025191" target="_blank">
+  illicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://instagram.com/mav3rick_music" target="_blank">
-/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  https://skillicons.dev/icons?i=instagram
 </a>
-
-ontleetcodeforfun/" target="_blank">
-.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+https://leetcode.com/u/idontleetcodeforfun/" target="_blank">
+  .net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
 </a>
 </p>
 
-**Email:** jagritpant201@gmail.com
+---
+
+### Technologies
+
+<p>
+  https://skillicons.dev/icons?i=java,javascript,cpp,nodejs,express,react,tailwind,mongodb,mysql,azure,aws,gcp,git,docker
+</p>
 
 ---
 
-## Tech Stack
-
-### Languages
-
-https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
-
-### Cloud & AI
-
-https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white
-
-### Backend
-
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232lat-square&logo=react&logoColor=61DAFB
-![TailwindCSS](https://img.shields.io/badge/Taille=flat-square&logo=tailwindcss&logoColor=white
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodbwhite
-![MySQL](https://img.shields.MySQL-005C84?style=flat-square&logo=mysql&logoColor=white
-![Oracleimg.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white
-
----
-
-## GitHub Statistics
+### GitHub Stats
 
 <p align="center">
-  " />
-</p>
-
-<p align="center">
-  username=Jagrit2703&theme=radical&layout=compact" />
+  ://github-readme-stats.vercel.app/api?username=Jagrit2703&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Jagrit2703&layout=compact&theme=transparent&hide_border=true
 </p>
 
 ---
 
-## Current Focus
+### Currently Working On
 
-- Agentic AI Systems
-- Azure & Cloud Engineering
-- Observability and Log Analysis
-- LLM-powered Developer Tools
-- Distributed Applications
+- AI-powered SWAT automation
+- Agentic log analysis systems
+- Azure Event Hub integrations
+- Developer productivity tools
+
+---
+
+> "Building things that save engineers from repetitive work."
