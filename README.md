@@ -1,5 +1,5 @@
 <h1 align="center">Hey Visitor! I'm Jagrit </h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">An AI Engineer from India</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
@@ -8,11 +8,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Jagrit2703&icon=8&color=8)](https://visitcount.itsvg.in)
 
-- 🔭 Currently dwelling for **Ideas** and looking for work **Opportunities**
+- 🔭 Currently brewing **Ideas**
 
-- 🔭 I’ve worked as an AWS Backend Engineer at a **Startup**
+- 🔭 I’ve work as a Research Engineer at **Havells**
 
-- 💬 Ask me about **Photography , Music and Creative Arts**
+- 💬 Ask me about **Photography , Music, Bikes, Tech, or just Games**
 
 - 📫 You can reach out to me through this magical entity **jagritpant201@gmail.com**
 
